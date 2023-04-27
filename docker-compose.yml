@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+
+  weather_bot:
+    container_name: app
+    build: .
+    restart: always
