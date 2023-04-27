@@ -2,3 +2,7 @@ weather_bot_venv
 config.py
 __pycache__
 .idea
+.env
+.env-non-dev
+.env-render
+.pytest_cache
